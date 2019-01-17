@@ -12,12 +12,14 @@ namespace TSP
         static void Main()
         {
             Random r = new Random();
-            string path = @".\a280.txt";
+            string path = @".\a280.txt";                        //pulls table txt file with distances 
             int size = 50;
             int elite = 4;
             int mutChance = 40;
             int crossFactor = 70;
-            string location = @".\a280_wynik.txt";
+            string location = @".\a280_result.txt";             //saves route (e.g. 2-3-6-1-2...) and min value to txt file
+
+            
             
 
             Distances d = new Distances(path);
