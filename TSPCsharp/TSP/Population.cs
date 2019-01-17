@@ -46,16 +46,16 @@ namespace TSP
             for(int i = 0; i < individualsTab.Length; i++)
             {
                 int[] tab = individualsTab[i];
-                int ocena = 0;
+                int fitness = 0;
 
                 for (int j = 0; j < tab.Length; j++)
                 {
                     if (j + 1 >= tab.Length)
-                        ocena += d.GetDistance(tab[j], tab[0]);
+                        fitness += d.GetDistance(tab[j], tab[0]);
                     else
-                        ocena += d.GetDistance(tab[j], tab[j + 1]);
+                        fitness += d.GetDistance(tab[j], tab[j + 1]);
                 }
-                Fitness[i] = ocena;
+                Fitness[i] = fitness;
             }
         }
 
