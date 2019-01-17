@@ -1,0 +1,34 @@
+C:\Users\Student12\Desktop\TSP\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\Student12\Desktop\TSP\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\Student12\Desktop\TSP\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\Student12\Desktop\TSP\TSP\TSP\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+C:\Users\Student12\Desktop\TSP\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\Student12\Desktop\TSP\TSP\TSP\obj\Debug\TSP.pdb
+C:\Dokumenty\UE\Rok 3\Semestr 5\Tworzenie inteligentnych gier strategicznych\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Dokumenty\UE\Rok 3\Semestr 5\Tworzenie inteligentnych gier strategicznych\TSP\TSP\bin\Debug\TSP.exe
+C:\Dokumenty\UE\Rok 3\Semestr 5\Tworzenie inteligentnych gier strategicznych\TSP\TSP\bin\Debug\TSP.pdb
+C:\Dokumenty\UE\Rok 3\Semestr 5\Tworzenie inteligentnych gier strategicznych\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Dokumenty\UE\Rok 3\Semestr 5\Tworzenie inteligentnych gier strategicznych\TSP\TSP\obj\Debug\TSP.exe
+C:\Dokumenty\UE\Rok 3\Semestr 5\Tworzenie inteligentnych gier strategicznych\TSP\TSP\obj\Debug\TSP.pdb
+C:\Dokumenty\UE\Rok 3\Semestr 5\Tworzenie inteligentnych gier strategicznych\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\migas\source\repos\TSP2\TSP\bin\Debug\TSP.exe.config
+C:\Users\migas\source\repos\TSP2\TSP\bin\Debug\TSP.exe
+C:\Users\migas\source\repos\TSP2\TSP\bin\Debug\TSP.pdb
+C:\Users\migas\source\repos\TSP2\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\migas\source\repos\TSP2\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\migas\source\repos\TSP2\TSP\obj\Debug\TSP.exe
+C:\Users\migas\source\repos\TSP2\TSP\obj\Debug\TSP.pdb
+C:\Users\migas\source\repos\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\migas\source\repos\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\migas\source\repos\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\migas\source\repos\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\migas\source\repos\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\migas\source\repos\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\migas\source\repos\TSP\TSP\obj\Debug\TSP.pdb
+C:\Users\migas\Desktop\migas_lukasz\Program\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\migas\Desktop\migas_lukasz\Program\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\migas\Desktop\migas_lukasz\Program\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\migas\Desktop\migas_lukasz\Program\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\migas\Desktop\migas_lukasz\Program\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\migas\Desktop\migas_lukasz\Program\TSP\TSP\obj\Debug\TSP.pdb
+C:\Users\migas\Desktop\migas_lukasz\Program\TSP\TSP\bin\Debug\TSP.pdb
